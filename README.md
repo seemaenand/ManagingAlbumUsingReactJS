@@ -1,7 +1,7 @@
 # Managing Album - React
 This is a album managing project of Coding Ninjas made using Reactjs. User can add, delete, update albums and photographs. 
 
-[Go Live to Album] - 
+[Go Live to Album] - https://sensational-elf-846adf.netlify.app/
 
 # Installation and Run
 To run the following code on your system follow the following instructions.
