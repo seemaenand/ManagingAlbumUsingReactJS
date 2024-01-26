@@ -1,4 +1,4 @@
-Album Managing using React JS
+<b>Album Managing using React JS</b>
 
 This is a album managing project of Coding Ninjas made using Reactjs. User can add album and add photographs, update them or even delete them. 
 
